@@ -28,10 +28,17 @@ class Timer(object):
         从京东服务器获取时间毫秒
         :return:
         """
-        url = 'https://a.jd.com//ajax/queryServerData.html'
-        ret = requests.get(url).text
-        js = json.loads(ret)
-        return int(js["serverTime"])
+        headers= {
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
+        }
+        params = {
+            'functionId': 'queryMaterialProducts',
+            'client': 'wh5'
+        }
+        url = 'https://api.m.jd.com/client.action?'
+        ret = requests.get(url, headers=headers, params=params).json()
+        print(f'===>{ret}')
+        return int(ret["currentTime2"])
 
     def local_time(self):
         """

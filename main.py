@@ -1,7 +1,6 @@
 import sys
 from jd_spider_requests import JdSeckill
 
-
 if __name__ == '__main__':
     a = """
 
@@ -13,12 +12,10 @@ if __name__ == '__main__':
         888  888     d88'         oo     .d8P 888    .o 888   .o8  888 `88b.   888   888   888  
     .o. 88P o888bood8P'           8""88888P'  `Y8bod8P' `Y8bod8P' o888o o888o o888o o888o o888o 
     `Y888P                """
-    
-    
-    b="""hellow ......"""
-    
-    
-    c="""                                                                                                                      
+
+    b = """hellow ......"""
+
+    c = """                                                                                                                      
                                                
 功能列表：                                                                                
  1.预约商品
@@ -27,8 +24,7 @@ if __name__ == '__main__':
     print(a)
     print(b)
     print(c)
-    
-    
+
     jd_seckill = JdSeckill()
     choice_function = input('请选择:')
     if choice_function == '1':

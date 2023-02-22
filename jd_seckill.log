@@ -1,0 +1,153 @@
+2023-02-22 20:03:19,849 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:308] - INFO: reserve 需登陆后调用，开始扫码登陆
+2023-02-22 20:03:20,127 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2023-02-22 20:03:21,070 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:23,179 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:25,287 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:27,404 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:29,514 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:31,625 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:33,744 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:35,859 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:37,978 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:40,097 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:42,211 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2023-02-22 20:03:44,323 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:208] - INFO: 已完成手机客户端确认
+2023-02-22 20:03:44,687 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:262] - INFO: 二维码登录成功
+2023-02-22 20:03:45,081 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:03:45,203 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4101】毫秒
+2023-02-22 20:03:45,203 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:03:45,351 - 32364-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:383] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2023-02-22 20:08:38,285 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:08:38,286 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:08:38,531 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:08:38,531 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4106】毫秒
+2023-02-22 20:08:38,531 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:08:38,554 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:08:38,555 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4106】毫秒
+2023-02-22 20:08:38,555 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:08:38,653 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:38,658 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:08:38,664 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:38,674 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:08:38,908 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:08:38,908 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4106】毫秒
+2023-02-22 20:08:38,908 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:08:38,985 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,001 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,013 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,035 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:08:39,048 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:08:39,048 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4106】毫秒
+2023-02-22 20:08:39,049 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:08:39,146 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,289 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:08:39,289 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4106】毫秒
+2023-02-22 20:08:39,289 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:08:39,341 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,371 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,389 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,390 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,534 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,658 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,660 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,731 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,737 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,936 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,978 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:39,989 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,020 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,061 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,241 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,264 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,325 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,375 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,387 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,574 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,586 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,633 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,635 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,663 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,793 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,858 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,911 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,959 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:40,992 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,090 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,209 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,230 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,317 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,351 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,386 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,572 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,574 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,665 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,667 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,744 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,923 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,943 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,944 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:41,979 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,115 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,180 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,220 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,264 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,308 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,472 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,484 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,485 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,552 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,658 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,773 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,841 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,857 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:42,887 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,022 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,080 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,118 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,128 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,141 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,334 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,349 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,367 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,532 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,546 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,567 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,599 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,701 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,807 - 7408-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,892 - 4596-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,928 - 17908-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:43,960 - 10032-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:08:44,062 - 13540-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:09:08,200 - 31592-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:365] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:09:08,320 - 31592-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4105】毫秒
+2023-02-22 20:09:08,320 - 31592-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:09:08,453 - 31592-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:383] - INFO: 预约成功，已获得抢购资格 / 您已成功预约过了，无需重复预约
+2023-02-22 20:09:16,951 - 16868-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:09:16,952 - 9200-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:09:17,203 - 16868-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:09:17,203 - 16868-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4110】毫秒
+2023-02-22 20:09:17,203 - 16868-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:09:17,212 - 9200-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:09:17,212 - 9200-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4110】毫秒
+2023-02-22 20:09:17,212 - 9200-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:09:17,309 - 30040-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:09:17,314 - 16868-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:09:17,320 - 9200-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:09:17,402 - 21708-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:09:17,557 - 16868-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:09:17,650 - 9200-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:09:17,660 - 30040-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:09:17,660 - 30040-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4110】毫秒
+2023-02-22 20:09:17,660 - 30040-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:09:17,689 - 21708-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:09:17,689 - 21708-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4110】毫秒
+2023-02-22 20:09:17,689 - 21708-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
+2023-02-22 20:09:17,704 - 15668-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:461] - INFO: 用户:徐大大大凡
+2023-02-22 20:09:17,762 - 30040-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:09:17,790 - 21708-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:09:17,803 - 16868-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:09:17,932 - 9200-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:456] - INFO: 抢购链接获取失败，稍后自动重试
+2023-02-22 20:09:17,952 - 15668-MainThread - E:\Github\jd_maotai_seckill-master\jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】茅台（MOUTAI）飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2023-02-22 20:09:17,952 - 15668-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:58] - INFO: 正在等待到达设定时间:2023-02-22 09:59:59.500000，检测本地时间与京东服务器时间误差为【-4110】毫秒
+2023-02-22 20:09:17,952 - 15668-MainThread - E:\Github\jd_maotai_seckill-master\timer.py[line:63] - INFO: 时间到达，开始执行……
