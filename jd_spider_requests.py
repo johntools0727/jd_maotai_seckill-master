@@ -271,7 +271,7 @@ class JdSeckill(object):
 
         # 初始化信息
         self.sku_id = global_config.getRaw('config', 'sku_id')
-        self.seckill_num = 2
+        self.seckill_num = 1
         self.seckill_init_info = dict()
         self.seckill_url = dict()
         self.seckill_order_data = dict()
